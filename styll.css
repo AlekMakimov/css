@@ -1,0 +1,63 @@
+#div1{
+	border-style: dotted;
+	border-color: red;
+	border:1;
+	height: 95vh;
+	width: 80%
+}
+#table1, td {
+	border-style: solid;
+	border-color: black;
+	width: 20%
+}
+#table1:hover{
+	cursor: crosshair;
+}
+#a1{
+	background-color:grey;
+	border-style: solid;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+}
+#a2:active{
+	color: silver;
+	text-decoration: none;
+	background-color: black;
+	border-style: dashed;
+}
+#a2:hover{
+	color: silver;
+	text-decoration: none;
+	background-color: black;
+	border-style: dashed;
+}
+#div2{
+	margin-left: 25px;
+
+}
+#li1{
+	list-style-image: url("gwiazdka.jpg");
+
+}
+#div3{
+	background-color: green;
+	margin:20px 10px 5px;
+	height: 25vh
+}
+#div4{
+	background-image: url("kwiaty.jpg");
+	background-repeat: no-repeat;
+	height: 35vh
+}
+p{
+	font-family: Tahoma;
+	list-style: italic;
+	font-size: 20px;
+}
+h1{
+	text-decoration: overline;
+	word-spacing: 10px;
+	text-align: right;
+	color: green;
+}
